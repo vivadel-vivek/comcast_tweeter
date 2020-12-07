@@ -1,0 +1,12 @@
+# Twitter keys
+API_key: yourapikey
+API_secret_key: yourapisecret
+Access_token: youraccesstoken
+Access_token_secret: yourtokensecret
+
+# How much do you pay for comcast? Round to nearest dollar
+Monthly_Comcast_Payment: 99
+
+# Do you have a custom message for comcast? The format for the email will be as follows:
+# "Hey @comcast! <Your custom message> My internet has been out for 400 minutes this week. Based on my monthly payment, you owe me a refund of $30."
+Custom_Message: "My internet went out again!"
